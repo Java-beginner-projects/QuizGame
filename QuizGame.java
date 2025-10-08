@@ -120,7 +120,7 @@ public class QuizGame {
 		}
 		
 		System.out.println("\nYour final score is: "+score+" / "+questions.size());
-		System.out.println("Thanks for playing!");a
+		System.out.println("Thanks for playing!");
 	}
 
 	public static void main(String[] args) {
